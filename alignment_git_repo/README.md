@@ -1,6 +1,6 @@
 This is a collection of scripts to produce a stacked bar plot 
 showing the varriation in amino acid sequence for the
-Fc constance region (CH2_CH3 domain)
+Fc constance region (CH2_CH3 domain) that interacts with protein L
 
 
 
